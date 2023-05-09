@@ -1,0 +1,20 @@
+* {
+  border: 0;
+  padding: 0;
+}
+body {
+  background-color: plum;
+}
+.d-block.w-100 {
+  height: 650px;
+}
+img {
+  height: 400px;
+}
+
+.carousel-item {
+  height: 650px;
+}
+.logo {
+  height: 60px;
+}
